@@ -25,11 +25,3 @@ Creates pretty html from a spreadsheet of NPC statistics. The spreadsheet should
 *Type:* CLI
 
 Creates very basic html for a table of pledge stats, for use with White Wolf's *Changelinge: the Lost* game system. The spreadsheet should look like the example sheet (pledge summary - template.ods) and must be saved in the CSV format.
-
-## Random Seeming and Kith Generator (random_sk.py)
-
-*Requirements:* Python 2.7, GTK 2 or 3, pygtk
-
-*Type:* GUI
-
-Simple random item picker designed to generate Seeming & Kith pairs for use with White Wolf's *Changelinge: the Lost* game system. Can easily be modified to create any other kind of pairing.
